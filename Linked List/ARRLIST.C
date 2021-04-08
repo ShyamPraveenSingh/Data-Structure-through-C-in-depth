@@ -1,10 +1,8 @@
 /* Program of list using array */
 # include<stdio.h>
 # define MAX 20
-
 int arr[MAX];
 int n;  /*Total number of elements in the list */
-
 main()
 {
 	int  choice,item,pos;
