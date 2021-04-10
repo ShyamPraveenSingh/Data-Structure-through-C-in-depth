@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "ARRLIST.C": "cpp"
+        "ARRLIST.C": "cpp",
+        "DOUBLELI.C": "cpp"
     }
 }
