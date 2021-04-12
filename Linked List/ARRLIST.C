@@ -148,5 +148,3 @@ display()
 	for(i = 0; i< n; i++)
 		printf("Value at position %d : %d\n", i+1, arr[i]);
 }/*End of display()*/
-
-
