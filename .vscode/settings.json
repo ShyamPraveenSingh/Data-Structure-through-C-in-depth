@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "ARRLIST.C": "cpp",
-        "DOUBLELI.C": "cpp"
+        "DOUBLELI.C": "cpp",
+        "SORTEDLI.C": "cpp"
     }
 }
