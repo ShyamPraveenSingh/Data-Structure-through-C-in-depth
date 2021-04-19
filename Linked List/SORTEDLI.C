@@ -7,9 +7,6 @@ struct node
 	int info;
 	struct node *link;
 }*start;
-
-
-
 main()
 {
 	int choice,n,m,i;
